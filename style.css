@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #ffffff;
+}
+
+header .flex-container {
+    max-width: 1440px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+h1 {
+    left: 200px;
+    font-size: 64px;
+
+}
+ul {
+    text-align: right;
+}
+
+li {
+    text-align: center;
+    margin: 15px;
+    display: inline-block;
+}
+
+
+
+.lineTrough {
+    text-decoration: line-through;
+}
+.blueDot {
+    color: #0000ec;
+}
+.container {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 30px; 
+}
+.fondo1 {
+    background-color: blue;
+}
+.diagonal {
+    position: relative;
+    
+    clip-path: polygon(0 22%, 100% 0, 100% 79%, 0% 100%);
+}
+.paragraph2 {
+text-align: right
+
+}
+.phoneImg {
+    float: left;
+}
