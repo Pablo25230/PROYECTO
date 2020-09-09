@@ -5,7 +5,12 @@ body {
     font-family: 'Rubik', sans-serif;
     background-color: #ffffff;
 }
-
+.logo {
+    float: left; 
+}
+.nav-var {
+    align-items: center;
+}
 header .flex-container {
     max-width: 1440px;
     justify-content: space-between;
