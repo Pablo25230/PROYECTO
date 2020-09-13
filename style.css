@@ -66,3 +66,9 @@ text-align: right
 .phoneImg {
     float: left;
 }
+.flex_container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
