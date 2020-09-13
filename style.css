@@ -6,7 +6,8 @@ body {
     background-color: #ffffff;
 }
 .logo {
-    float: left; 
+    
+    display: inline;
 }
 .nav-var {
     align-items: center;
@@ -15,6 +16,7 @@ header .flex-container {
     max-width: 1440px;
     justify-content: space-between;
     align-items: center;
+
     
 }
 h1 {
@@ -24,6 +26,7 @@ h1 {
 }
 ul {
     text-align: right;
+    display: block;
 }
 
 li {
@@ -49,6 +52,7 @@ li {
 }
 .fondo1 {
     background-color: blue;
+    height: 1042px;
 }
 .diagonal {
     position: relative;
