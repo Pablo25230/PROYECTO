@@ -49,19 +49,33 @@ li {
     max-width: 1440px;
     margin: 0 auto;
     padding: 0 30px; 
+    align-items: center;
+    
+}
+.spotify {
+    display: flex;
+    justify-content: space-between;
+}
+.padding {
+    padding-top: 100px;
 }
 .fondo1 {
     background-color: blue;
-    height: 1042px;
+    width: 100%;
 }
 .diagonal {
     position: relative;
-    
+    margin-top: 191px;
+    width: 100%;
     clip-path: polygon(0 22%, 100% 0, 100% 79%, 0% 100%);
 }
 .paragraph2 {
 text-align: right
 
+}
+.iframes {
+    width: 584px;
+    height: 232px;
 }
 .phoneImg {
     float: left;
