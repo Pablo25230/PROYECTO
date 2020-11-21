@@ -562,7 +562,7 @@
       width: 480px;
       height: 364px;
     }
-    /**************Incio estilos contenedor 5****************/
+    
     /*Estilo general contenedor 5*/
     .contenedor5 {
       margin-bottom: 10%;
@@ -589,10 +589,10 @@
       font-size: 3rem;
       text-align: start;
     }
-    .assets p {
+    .imagenes p {
       text-align: center;
     }
-    .assets-especiales {
+    .imagenes-especiales {
       width: 16%;
     }
     /*Estilos contenedor 6*/
